@@ -1,4 +1,5 @@
 #Los archivos y carpetas listados aqui, git no los tomará en cuenta.
 
 test_intocable.c
+archivo_test.c
 
